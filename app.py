@@ -7,3 +7,5 @@ print(students_count)
 
 name = "edrik"
 lastname = 'Zohrabi'
+
+school = "csun"
